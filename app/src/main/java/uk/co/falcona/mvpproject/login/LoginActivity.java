@@ -35,6 +35,8 @@ public class LoginActivity extends AppCompatActivity implements SignUpPresenter.
         setContentView(binding.getRoot());
         initLoginPresenteries();
         clickListener();
+
+
         check();
 
 
