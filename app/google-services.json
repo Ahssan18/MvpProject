@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "555598657124",
+    "project_id": "practice-387a1",
+    "storage_bucket": "practice-387a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555598657124:android:63d614a4e3ff73a797d171",
+        "android_client_info": {
+          "package_name": "telegram.free.myapplicationkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555598657124-v5ijptcvg72p4a24c139iprla56rfdnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "telegram.free.myapplicationkt",
+            "certificate_hash": "844af3af18e53ea2ca984ee9bf200c7bba6ac0e5"
+          }
+        },
+        {
+          "client_id": "555598657124-dqvr7p6usdi8rrujg9bspois508nm6a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMK4Tu57zhnJCTvtHucqWTEmAycVP3kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555598657124-dqvr7p6usdi8rrujg9bspois508nm6a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555598657124:android:ff8f2fbb140139d097d171",
+        "android_client_info": {
+          "package_name": "uk.co.falcona.mvpproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555598657124-dqvr7p6usdi8rrujg9bspois508nm6a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMK4Tu57zhnJCTvtHucqWTEmAycVP3kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555598657124-dqvr7p6usdi8rrujg9bspois508nm6a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
